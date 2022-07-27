@@ -2,7 +2,7 @@
   "author": {
     "name": "Pierre Curto"
   },
-  "name": "lz4",
+  "name": "@transitapp/lz4",
   "description": "LZ4 streaming compression and decompression",
   "keywords": [
     "lz4",
@@ -11,21 +11,21 @@
     "stream"
   ],
   "version": "0.6.6",
-  "homepage": "http://github.com/pierrec/node-lz4",
+  "homepage": "http://github.com/transitapp/node-lz4",
   "repository": {
     "type": "git",
-    "url": "git://github.com/pierrec/node-lz4.git"
+    "url": "git://github.com/transitapp/node-lz4.git"
   },
   "main": "./lib/lz4.js",
   "browser": "./build/lz4.js",
   "bugs": {
-    "url": "http://github.com/pierrec/node-lz4/issues"
+    "url": "http://github.com/transitapp/node-lz4/issues"
   },
   "gypfile": true,
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/pierrec/node-lz4/raw/master/LICENSE"
+      "url": "http://github.com/transitapp/node-lz4/raw/master/LICENSE"
     }
   ],
   "engines": {
